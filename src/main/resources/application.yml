@@ -1,0 +1,10 @@
+
+spring:
+  datasource:
+    password: Satya@12652
+    url: jdbc:mysql://localhost:3306/satya
+    username: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
